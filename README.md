@@ -1,4 +1,4 @@
-[![MasterHead](https://cdn.dribbble.com/users/124447/screenshots/3437005/8.gif)](https://Khitishgithub.io)
+[![MasterHead](https://www.careerguide.com/career/wp-content/uploads/2020/03/full-stack-development.gif)](https://Khitishgithub.io)
 <h1 align="center">Hi 👋, I'm Khitish Kumar Pradhan</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src ="https://media.tenor.com/C9qukZqPPS4AAAAM/coding-typing.gif">
