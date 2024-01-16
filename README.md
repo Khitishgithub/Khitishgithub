@@ -27,6 +27,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=khitishgithub&show_icons=true&locale=en&layout=compact" alt="khitishgithub" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khitishgithub&show_icons=true&locale=en" alt="khitishgithub" /></p>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khitishgithub&" alt="khitishgithub" /></p>
