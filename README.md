@@ -28,5 +28,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=khitishgithub&show_icons=true&locale=en&layout=compact" alt="khitishgithub" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khitishgithub&show_icons=true&locale=en" alt="khitishgithub" /></p>
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Khitishgithub&bg_color=252224&color=e4cde3&line=fff5fe&point=b81919&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
