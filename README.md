@@ -26,3 +26,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khitishgithub&show_icons=true&locale=en" alt="khitishgithub" /></p>
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Khitishgithub&theme=dark" alt="GitHub Streak" /></a>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Khitishgithub&bg_color=252324&color=ede9ec&line=f6eff5&point=c61515&area=true&hide_border=true" alt="Ashutosh's github activity graph" style="border: none; width: 100%; height: auto;">
+</a>
