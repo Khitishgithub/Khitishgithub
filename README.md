@@ -1,5 +1,5 @@
 [![MasterHead](https://www.careerguide.com/career/wp-content/uploads/2020/03/full-stack-development.gif)](https://Khitishgithub.io)
-<h1 align="center">Hi 👋, I'm Khitish Kumar Pradhan</h1>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&pause=1000&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Khitish+Kumar+Pradhan" alt="Typing SVG" /></a>
 <h3 align="center">A passionate Full stack developer from India</h3>
 <img align="right" alt="Coding" width="400" src ="https://media.tenor.com/C9qukZqPPS4AAAAM/coding-typing.gif">
 
