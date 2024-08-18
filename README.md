@@ -28,4 +28,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=khitishgithub&show_icons=true&locale=en&layout=compact" alt="khitishgithub" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khitishgithub&show_icons=true&locale=en" alt="khitishgithub" /></p>
-
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Khitishgithub&theme=dark" alt="GitHub Streak" /></a>
