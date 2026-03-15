@@ -3,7 +3,6 @@
 <h3 align="center">A passionate Full stack developer from India</h3>
 <img align="right" alt="Coding" width="400" src ="https://media.tenor.com/C9qukZqPPS4AAAAM/coding-typing.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=khitishgithub&label=Profile%20views&color=0e75b6&style=flat" alt="khitishgithub" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 - 🌱 I’m currently learning **AWS**
